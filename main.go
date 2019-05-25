@@ -6,7 +6,7 @@ import (
 )
 
 var letter = "a"
-var letterb = "b"
+
 var number uint64 = 18446744073709551615
 
 func main() {
