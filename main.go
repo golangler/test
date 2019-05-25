@@ -5,7 +5,7 @@ import (
 	"strconv"
 )
 
-var letter = "a"
+var letter = "ax"
 
 var number uint64 = 18446744073709551615
 
