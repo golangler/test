@@ -24,7 +24,7 @@
 // Switch to your device or emulator to start the Basic application from
 // the launcher.
 // You can also run the application on your desktop by running the command
-// below. (Note: It currently doesn't work on Windows.)
+// below. (Note: It currently doesn't work on Windows.)x
 //   $ go install golang.org/x/mobile/example/basic && basic
 package main
 
